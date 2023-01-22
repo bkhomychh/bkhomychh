@@ -5,23 +5,6 @@
 I enjoy the whole process of developing creative websites and learning new things. I am always ready
 for new challenges and look forward to meeting new people.
 
-### 🤝 Connect with me:
-
-<a href="mailto:bod.khomych@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-</br>
-
-- 💬 If you have any question/feedback, please don't hesitate to contact me!
-
-## 🔭 I'm currently working on
-
-- My old projects
-- My CSS and JavaScript skills
-
-## 🌱 I'm currently learning
-
-- JavaScript
-
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,8 +21,23 @@ for new challenges and look forward to meeting new people.
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🔭 I'm currently working on
+
+- My old projects
+- My CSS and JavaScript skills
+
+## 🌱 I'm currently learning
+
+- JavaScript
+
 ## 📈 GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bkhomychh&show_icons=true&theme=radical)](https://github.com/bkhomychh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhomychh&layout=compact&show_icons=true&theme=radical)](https://github.com/bkhomychh)
+
+### 🤝 Connect with me:
+
+<a href="mailto:bod.khomych@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+- 💬 If you have any question/feedback, please don't hesitate to contact me!
