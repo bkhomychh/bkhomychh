@@ -24,11 +24,12 @@ for new challenges and look forward to meeting new people.
 ## 🔭 I'm currently working on
 
 - My old projects
-- My CSS and JavaScript skills
+- My JavaScript skills
 
 ## 🌱 I'm currently learning
 
-- JavaScript
+- English
+- ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 
 ## 📈 GitHub Stats
 
