@@ -3,10 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hand waving"/>
 </h1>
 
-I am a Front-end developer with 1 year of non-commercial web development experience.
-Have experience in individual and team projects.
-Always ready for new challenges and look forward to meeting new people.
-Looking for a company where I can contribute my skills and learn from professional developers.
+I am a Front-end developer with 2 years of development experience.
 
 ## 💼 Technical Skills
 
