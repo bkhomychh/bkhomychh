@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Hand waving"/>
 </h1>
 
-I am a Front-end developer with 2 years of development experience.
+I am a Front-end developer with 1.5 years of commercial experience building dynamic, user-friendly web and mobile applications. 
 
 ## 💼 Technical Skills
 
